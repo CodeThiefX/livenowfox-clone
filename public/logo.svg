@@ -1,0 +1,10 @@
+<svg width="150" height="50" viewBox="0 0 150 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M25 10H40V40H25V10Z" fill="#07164b"/>
+    <path d="M40 10H95V40H40V10Z" fill="#9c191c"/>
+    <path d="M95 10H120V40H95V10Z" fill="#07164b"/>
+    <text x="26" y="32" fill="white" font-size="18" font-weight="bold" font-family="Arial">LIVE</text>
+    <text x="43" y="32" fill="white" font-size="18" font-weight="bold" font-family="Arial">NOW</text>
+    <text x="97" y="32" fill="white" font-size="18" font-weight="bold" font-family="Arial">FOX</text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="8" fill="#07164b"/>
+  <rect x="10" y="10" width="10" height="44" fill="#07164b"/>
+  <rect x="20" y="10" width="28" height="44" fill="#9c191c"/>
+  <rect x="48" y="10" width="10" height="44" fill="#07164b"/>
+  <text x="11" y="40" fill="white" font-size="12" font-family="sans-serif" font-weight="bold">L</text>
+  <text x="22" y="40" fill="white" font-size="12" font-family="sans-serif" font-weight="bold">NOW</text>
+  <text x="49" y="40" fill="white" font-size="12" font-family="sans-serif" font-weight="bold">F</text>
+</svg>
